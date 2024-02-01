@@ -26,13 +26,13 @@ A customizable and modern CSS reset for web development projects.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/my-css-reset.git
+   git clone https://github.com/ShadiBn/My-Css-Reset.git
    ```
 
 2. **Link the CSS file:**
-   In your HTML file, link the `my-css-reset.css` file in the `<head>` section:
+   In your HTML file, link the `reset.css` file in the `<head>` section:
      ```html
-     <link rel="stylesheet" href="path/to/my-css-reset.css">
+     <link rel="stylesheet" href="path/to/reset.css">
      ```
 
 3. **Customize as needed:**
